@@ -26,3 +26,10 @@ The MOA Hotel Reservation System is a comprehensive platform designed to facilit
 
 ## Localization
 The system is tailored to accommodate bookings in multiple countries, including France, Portugal, Spain, Canada, the United States, Germany, the United Kingdom, and Russia, with scalability for global expansion.
+
+
+🌐 https://javierblancotech.com/
+
+📧 info@javierblancotech.com
+
+👉🏼 https://www.linkedin.com/in/javierblancotech/
