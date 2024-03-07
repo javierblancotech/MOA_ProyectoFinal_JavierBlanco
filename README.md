@@ -1,5 +1,5 @@
-**MOA Hotel Reservation System
-****Project Overview**
+**MOA Hotel Reservation System**
+**Project Overview**
 
 The MOA Hotel Reservation System is a comprehensive platform designed to facilitate seamless hotel bookings across several countries. Integrating with an API for every reservation made through our website, the system ensures a personalized and dynamic user experience by capturing essential details such as user information, accompanying guests, dates, and more.
 
